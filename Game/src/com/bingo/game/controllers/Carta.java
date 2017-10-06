@@ -9,7 +9,7 @@ package com.bingo.game.controllers;
  *
  * @author
  */
-import com.bingo.componets.BingoButton;
+
 import com.bingo.game.views.FrameCarta;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
