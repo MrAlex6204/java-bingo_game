@@ -5,23 +5,32 @@
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/img_01.jpg)
 <br>
+
 <h3>Package structure</h3>
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/img_05.jpg)
 <br>
+
 <h3>Bingo table writted in the console log</h3>
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/img_02.jpg)
 <br>
-<h3>Table design</h3>
+
+-<h3>Table design</h3>
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/img_03.jpg)
 <br>
+
 <h3>Main window design</h3>
+
+[Source code](https://github.com/MrAlex6204/java-bingo_game/blob/master/Game/src/com/bingo/game/controllers/PanelPrincipal.java)
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/img_04.jpg)
 <br>
+
 <h3>New game example</h3>
+
+[Bingo Table source code](https://github.com/MrAlex6204/java-bingo_game/blob/master/Game/src/com/bingo/game/controllers/Carta.java)
 
 ![alt tag](https://github.com/MrAlex6204/java-bingo_game/blob/master/Images/171006-115235.gif)
 <br>
